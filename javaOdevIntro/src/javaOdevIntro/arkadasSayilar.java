@@ -1,6 +1,6 @@
 package javaOdevIntro;
 
-public class arkadasSayilar {
+public class ArkadasSayilar {
 
 	public static void main(String[] args) {
 		int number1 = 220;
